@@ -1,0 +1,18 @@
+
+   python
+1.文本处理
+2.json文件处理
+3.sys
+3.os
+4.random
+5.httplib   urllib urllib2
+6.排序算法
+7.stringOperation
+8.db
+9.读写文件
+
+   shell
+grep, tr, cut, sort, uniq, awk, head
+
+    链表
+    数据库
